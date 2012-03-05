@@ -7,6 +7,10 @@ provides integration with Mozilla's Case Conductor test case management tool.
 little functionality has been implemented. For a list of Case Conductor test
 cases and their outcome use the `--verbose` command line option.**
 
+## Continuous Integration
+
+[![Build Status](https://secure.travis-ci.org/davehunt/pytest-caseconductor.png?branch=master)](http://travis-ci.org/davehunt/pytest-caseconductor)
+
 ## Installation
 
     $ python setup.py install
